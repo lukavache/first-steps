@@ -1,0 +1,11 @@
+C:\Users\Shark\source\repos\TCP-IP Client Server\bin\Debug\TCP-IP Client Server.exe.config
+C:\Users\Shark\source\repos\TCP-IP Client Server\bin\Debug\TCP-IP Client Server.exe
+C:\Users\Shark\source\repos\TCP-IP Client Server\bin\Debug\TCP-IP Client Server.pdb
+C:\Users\Shark\source\repos\TCP-IP Client Server\bin\Debug\SimpleTCP.dll
+C:\Users\Shark\source\repos\TCP-IP Client Server\obj\Debug\TCP_IP_Client_Server.Form1.resources
+C:\Users\Shark\source\repos\TCP-IP Client Server\obj\Debug\TCP_IP_Client_Server.Properties.Resources.resources
+C:\Users\Shark\source\repos\TCP-IP Client Server\obj\Debug\TCP-IP Client Server.csproj.GenerateResource.cache
+C:\Users\Shark\source\repos\TCP-IP Client Server\obj\Debug\TCP-IP Client Server.csproj.CoreCompileInputs.cache
+C:\Users\Shark\source\repos\TCP-IP Client Server\obj\Debug\TCP-IP Client Server.csproj.CopyComplete
+C:\Users\Shark\source\repos\TCP-IP Client Server\obj\Debug\TCP-IP Client Server.exe
+C:\Users\Shark\source\repos\TCP-IP Client Server\obj\Debug\TCP-IP Client Server.pdb
